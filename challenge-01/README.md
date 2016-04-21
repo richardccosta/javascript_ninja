@@ -4,7 +4,8 @@
 // Declarar uma variável chamada `myvar`, sem valor.
 ?
 
-// Após declarada, atribua o valor 10 à variável `myvar`.
+// Após declarada, atribua o valor 10
+ à variável `myvar`.
 ?
 
 // Declare uma nova variável chamada `soma`, e adicione uma instrução somando os valores 15 e 8.
